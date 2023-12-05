@@ -22,17 +22,28 @@ Customizable responses and actions based on user input.
 User-friendly graphical user interface (GUI) for interaction.
 
 Requirements
+
 Python 3.x
+
 Required Python libraries
+
 An internet connection for speech recognition (Google Cloud Speech-to-Text)
+
 A microphone for voice input
-Usage
+
+
+**Usage
+**
 Launch the application and click the "Listen" button. Speak your command or question. The voice assistant will process your input and respond both visually and audibly.
 
+
 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+
 Acknowledgments
+
 SpeechRecognition library for speech recognition. pyttsx3 library for text-to-speech conversion.
 
 Support
