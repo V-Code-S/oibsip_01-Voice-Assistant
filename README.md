@@ -1,14 +1,26 @@
 OIB-SIP VOICE ASSISTANT PROJECT
+
+
 Voice Assistant Project
+
 Overview
+
 This is a Python-based voice assistant project that allows users to interact with their computer using voice commands. The voice assistant listens to user input, processes it, and responds with relevant information or actions.
 
+
 Features
+
+
 Speech recognition to convert spoken words into text.
+
 Text-to-speech conversion for natural responses.
+
 Basic natural language processing (NLP) to understand user commands.
+
 Customizable responses and actions based on user input.
+
 User-friendly graphical user interface (GUI) for interaction.
+
 Requirements
 Python 3.x
 Required Python libraries
